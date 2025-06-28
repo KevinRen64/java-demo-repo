@@ -12,12 +12,15 @@ The pipeline automates the following steps:
 
 ## Project Structure
 
+'''
+bash
 my-java-app/
 ├── src/
 │ └── Hello.java # Simple Java app entry point
 ├── Dockerfile # Defines how to build the Docker image
 ├── buildspec.yml # CodeBuild specification for building and pushing the Docker image
 └── README.md # This file
+
 
 ## Prerequisites
 
