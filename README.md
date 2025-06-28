@@ -12,14 +12,8 @@ The pipeline automates the following steps:
 
 ## Project Structure
 
-'''
-bash
-my-java-app/
-├── src/
-│ └── Hello.java # Simple Java app entry point
-├── Dockerfile # Defines how to build the Docker image
-├── buildspec.yml # CodeBuild specification for building and pushing the Docker image
-└── README.md # This file
+![image](https://github.com/user-attachments/assets/a5f639c7-5c11-4cb0-bbf2-3dfc7002e9ce)
+
 
 
 ## Prerequisites
